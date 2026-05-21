@@ -3,13 +3,12 @@
 This repository documents my learning journey through the **"AI Is in the Fingertips"** program.
 
 It contains:
-- Class-wise reflection responses
-- Personal notes and insights
-- Key concepts I learned
-- Progress tracking
-- Practical learnings related to AI, product thinking, GitHub, and modern technology ecosystems
+- Class-wise notes
+- Reflection responses
+- Key learnings and insights
+- Progress tracking throughout the course
 
-The goal of this repository is to build a strong understanding of how AI is shaping real-world products, companies, careers, and the future of technology.
+The goal of this repository is to develop a strong understanding of AI products, companies, ecosystems, product thinking, and the future of technology.
 
 ---
 
@@ -17,10 +16,10 @@ The goal of this repository is to build a strong understanding of how AI is shap
 
 **AI Is in the Fingertips** is an industry awareness and product thinking program designed for engineering students.
 
-Unlike traditional coding courses, this program focuses on:
+The course focuses on:
 - AI product ecosystems
-- Product thinking
 - AI companies and startups
+- Product thinking
 - Git & GitHub workflow
 - AI careers and opportunities
 - Ethics and safety
@@ -44,12 +43,10 @@ Credits to the course creator for providing the learning material and structure.
 📦 AI-Is-in-the-Fingertips
  ┣ 📂 class-01
  ┃ ┣ 📄 README.md
- ┃ ┣ 📄 notes.md
- ┃ ┗ 📄 reflection.md
+ ┃ ┗ 📄 notes.md
  ┣ 📂 class-02
  ┃ ┣ 📄 README.md
- ┃ ┣ 📄 notes.md
- ┃ ┗ 📄 reflection.md
+ ┃ ┗ 📄 notes.md
  ┣ 📂 class-03
  ┣ 📂 class-04
  ┣ 📂 class-05
@@ -85,21 +82,20 @@ Credits to the course creator for providing the learning material and structure.
 
 Through this course, I am learning:
 - How modern AI products are built
-- The ecosystems of companies like OpenAI, Anthropic, and Google
 - Product thinking and user-focused design
 - Git and GitHub workflow
+- AI ecosystems and business models
 - AI trends, opportunities, and risks
 - Real-world applications of AI
-- Career awareness in the AI industry
 
 ---
 
 # Why This Repository Exists
 
 I created this repository to:
-- Track my progress consistently
-- Document my reflections and learnings
-- Build stronger product and industry awareness
+- Track my learning progress
+- Build consistency
+- Document my reflections and notes
 - Improve my understanding of AI beyond coding
 - Create a public learning journal
 
